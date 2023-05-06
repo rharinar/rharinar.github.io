@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rharinar
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rharinar/rharinar.github.io
